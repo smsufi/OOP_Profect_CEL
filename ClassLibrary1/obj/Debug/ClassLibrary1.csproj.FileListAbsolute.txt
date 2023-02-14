@@ -1,0 +1,6 @@
+E:\Office\OOP_Assignment\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+E:\Office\OOP_Assignment\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\Office\OOP_Assignment\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\Office\OOP_Assignment\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\Office\OOP_Assignment\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\Office\OOP_Assignment\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
